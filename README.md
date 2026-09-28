@@ -40,3 +40,6 @@ The name field accepts up to 40 characters. The feed starts with two example pos
 ## Data and Project Scope
 
 Posts and likes are stored in JavaScript memory in the current page. Reloading the page restores the example posts and clears posts created during that visit and likes added during that visit. ConnectHub does not include user accounts, a server, or persistent storage; it is a client-side demonstration.
+## What I Learned
+
+This project helped me practice building an interactive web application using HTML, CSS, and JavaScript. I also learned how to use GitHub Copilot as a coding assistant while reviewing and improving the generated code. Working on the project helped me better understand JavaScript interactions, user input, and organizing files in a software project.
